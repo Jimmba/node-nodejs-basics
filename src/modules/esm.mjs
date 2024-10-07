@@ -1,8 +1,3 @@
-// const path = require('path');
-// const { release, version } = require('os');
-// const { createServer: createServerHttp } = require('http');
-// require('./files/c');
-
 import path from "path";
 import { release, version } from "os";
 import { createServer as createServerHttp } from "http";
